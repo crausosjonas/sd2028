@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Facebook Login",
+  "description": "A clean, modern, and mobile-responsive React application that demonstrates a complete Facebook login flow. It includes a login page, handles the Facebook SDK, and displays user profile information after a mock backend authentication.",
+  "requestFramePermissions": []
+}
